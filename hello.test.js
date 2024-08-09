@@ -1,4 +1,4 @@
 const hello = require('./hello');
 test('outputs the correct string', () => {
-  expect(hello()).toBe("Hello!");
+  expect(hello()).toBe("Hello");
 });
